@@ -31,9 +31,7 @@ The dashboard helps answer questions such as:
 
 ## Files In This Repository
 
-- `ITS68404_0362475_Dashboard.twb`: Main Tableau workbook.
-- `~Data Visualization Indv__12528.twbr`: Tableau recovery/backup workbook file.
-- `~Data Visualization Indv__17088.twbr`: Tableau recovery/backup workbook file.
+- `Nepal_AQI_Analysis 2019-2026.twb`: Main Tableau workbook.
 
 ## Datasets
 
@@ -49,7 +47,7 @@ The `Datasets/` folder contains:
 ## How To Open
 
 1. Open Tableau Desktop.
-2. Open `ITS68404_0362475_Dashboard.twb`.
+2. Open `Nepal_AQI_Analysis 2019-2026.twb`.
 3. If prompted, reconnect data sources to the files in `Datasets/`.
 
 ## Tools Used
