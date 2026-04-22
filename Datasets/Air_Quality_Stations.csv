@@ -1,0 +1,14 @@
+Station_ID,Station_Name,Province,District,Latitude,Longitude
+ST_000,Station_Kathmandu,Bagmati,Kathmandu,27.7172,85.324
+ST_001,Station_Lalitpur,Bagmati,Lalitpur,27.671,85.3247
+ST_002,Station_Bhaktapur,Bagmati,Bhaktapur,27.671,85.4298
+ST_003,Station_Pokhara,Gandaki,Kaski,28.2096,83.9856
+ST_004,Station_Biratnagar,Koshi,Morang,26.4525,87.2717
+ST_005,Station_Nepalgunj,Lumbini,Banke,28.05,81.6167
+ST_006,Station_Birgunj,Madhesh,Parsa,27.0105,84.878
+ST_007,Station_Hetauda,Bagmati,Makwanpur,27.4262,85.0345
+ST_008,Station_Chitwan,Bagmati,Chitwan,27.6833,84.4333
+ST_009,Station_Butwal,Lumbini,Rupandehi,27.7006,83.4484
+ST_010,Station_Dhangadhi,Sudurpashchim,Kailali,28.685,80.608
+ST_011,Station_Surkhet,Karnali,Surkhet,28.5994,81.6311
+ST_012,Station_Rara,Karnali,Mugu,29.5312,82.0837
