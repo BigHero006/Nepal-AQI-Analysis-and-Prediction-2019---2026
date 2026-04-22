@@ -11,9 +11,7 @@ This project presents an interactive Tableau dashboard for exploring urban air q
 ```text
 Air quality/
 |-- README.md
-|-- ITS68404_0362475_Dashboard.twb
-|-- ~Data Visualization Indv__12528.twbr
-|-- ~Data Visualization Indv__17088.twbr
+|-- Nepal_AQI_Analysis 2019-2026.twb
 `-- Datasets/
 	|-- Air_Quality_Readings.csv
 	|-- Air_Quality_Stations.csv
